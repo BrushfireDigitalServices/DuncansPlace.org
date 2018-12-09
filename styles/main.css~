@@ -1,0 +1,5 @@
+body {color: #101010; }
+h1 {
+	color: #dd8500;
+	font-family: Tahoma, Verdana, Helvetica, sans-serif;
+	}
