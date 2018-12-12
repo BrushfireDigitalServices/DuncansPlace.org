@@ -22,7 +22,7 @@
 <li id="main-nav-gallery" class="menu-item menu-item-main-nav"><a href="./gallery.html">Gallery</a></li>
 <li id="main-nav-pet-corner" class="menu-item menu-item-main-nav menu-item-current"><a href="./cat-and-dog-corner.html">Pet Corner</a></li>
 <li id="main-nav-contact" class="menu-item menu-item-main-nav"><a href="./contact.html">Contact Us</a></li>
-<li id="main-nav-donate" class="menu-item menu-item-main-nav"><a href="./donate.html/">How to Help</a></li>
+<li id="main-nav-donate" class="menu-item menu-item-main-nav"><a href="./donate.html">How to Help</a></li>
 </ul></div>		</nav><!-- #site-navigation -->
 
 				
