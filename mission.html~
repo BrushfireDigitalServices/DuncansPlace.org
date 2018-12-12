@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width"><title>Duncan's Place a Cat Sanctuary</title><link rel="stylesheet" type="text/css" href="./styles/main.css">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width"><title>Duncan's Place a Cat Sanctuary</title><link rel="stylesheet" type="text/css" href="styles/main.css">
 </head>
 <body>
 	
@@ -16,13 +16,13 @@
 			<div class="menu-menu-1-container">
 			<ul id="menu-menu-1" class="nav-menu">
 			<li id="menu-item-34" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/">Home</a></li>
-<li id="main-nav-about" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/about">About Us</a></li>
-<li id="main-nav-mission" class="menu-item menu-item-main-nav menu-item-current"><a href="https://duncansplace.org/mission">Our Mission</a></li>
-<li id="main-nav-adopt" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/adopt">Adopt a Cat</a></li>
-<li id="main-nav-gallery" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/gallery">Gallery</a></li>
-<li id="main-nav-pet-corner" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/cat-and-dog-corner">Pet Corner</a></li>
-<li id="main-nav-contact" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/contact">Contact Us</a></li>
-<li id="main-nav-donate" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/donate/">How to Help</a></li>
+<li id="main-nav-about" class="menu-item menu-item-main-nav"><a href="./about.html">About Us</a></li>
+<li id="main-nav-mission" class="menu-item menu-item-main-nav menu-item-current"><a href="./mission.html">Our Mission</a></li>
+<li id="main-nav-adopt" class="menu-item menu-item-main-nav"><a href="./adopt.html">Adopt a Cat</a></li>
+<li id="main-nav-gallery" class="menu-item menu-item-main-nav"><a href="./gallery.html">Gallery</a></li>
+<li id="main-nav-pet-corner" class="menu-item menu-item-main-nav"><a href="./cat-and-dog-corner.html">Pet Corner</a></li>
+<li id="main-nav-contact" class="menu-item menu-item-main-nav"><a href="./contact.html">Contact Us</a></li>
+<li id="main-nav-donate" class="menu-item menu-item-main-nav"><a href="./donate.html/">How to Help</a></li>
 </ul></div>		</nav><!-- #site-navigation -->
 
 				
