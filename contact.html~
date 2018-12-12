@@ -15,13 +15,13 @@
 			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
 			<div class="menu-menu-1-container">
 			<ul id="menu-menu-1" class="nav-menu">
-			<li id="menu-item-34" class="menu-item menu-item-main-nav menu-item-current"><a href="https://duncansplace.org/">Home</a></li>
+			<li id="menu-item-34" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/">Home</a></li>
 <li id="main-nav-about" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/about">About Us</a></li>
 <li id="main-nav-mission" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/mission">Our Mission</a></li>
 <li id="main-nav-adopt" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/adopt">Adopt a Cat</a></li>
 <li id="main-nav-gallery" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/gallery">Gallery</a></li>
 <li id="main-nav-pet-corner" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/cat-and-dog-corner">Pet Corner</a></li>
-<li id="main-nav-contact" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/contact">Contact Us</a></li>
+<li id="main-nav-contact" class="menu-item menu-item-main-nav menu-item-current"><a href="https://duncansplace.org/contact">Contact Us</a></li>
 <li id="main-nav-donate" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/donate/">How to Help</a></li>
 </ul></div>		</nav><!-- #site-navigation -->
 
