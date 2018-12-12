@@ -1,5 +1,45 @@
-body {color: #101010; }
-h1 {
+body {color: #101010; 
+font-family: Tahoma, Verdana, Helvetica, sans-serif;
+font-size: 
+}
+
+.site-title {
 	color: #dd8500;
-	font-family: Tahoma, Verdana, Helvetica, sans-serif;
+	text-decoration: none;
 	}
+
+.site-title a:visited {
+	color: #dd8500;
+	text-decoration: none;
+}
+	
+.facebook-frame {
+float: right;
+margin: 5px;
+}
+
+.nav-menu {
+width: 90%;
+display: inline-block;
+background-color: #909090;
+overflow: visible;
+}
+
+.menu-item {
+display: inline-block;
+background-color: #909090;
+padding: 10px;
+}
+
+.menu-item:hover {
+background-color: #707070;
+}
+
+.menu-item-current {
+background-color: #b8b8b8;
+}
+
+.menu-item-main-nav {
+display: inline-block;
+padding: 10px;
+}

@@ -5,23 +5,46 @@
 </head>
 <body>
 	
-	<div>
-	<h1 class="">Duncan's Place: A Cat Sanctuary</h1>
+	<div id="page">
+	<header id="masthead" class="site-header" role="banner">
+	<a href="https://duncansplace.org/"><img src="./assets/cropped-duncansheaderimage1-faded.jpg" class="header-image" width="954" height="248" alt="Duncan&#039;s Place, A Cat Sanctuary" ></a>
+	<h1><a class="site-title" href="https://duncansplace.org/" title="Duncan&#039;s Place, A Cat Sanctuary" rel="index.html">Duncan's Place, A Cat Sanctuary</a></h1>
 	<h2>Welcome! Our website is currently under renovation.</h2>
+	
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-menu-1-container">
+			<ul id="menu-menu-1" class="nav-menu">
+			<li id="menu-item-34" class="menu-item menu-item-main-nav menu-item-current"><a href="https://duncansplace.org/">Home</a></li>
+<li id="main-nav-about" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/about-us/">About Us</a></li>
+<li id="main-nav-mission" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/our-mission/">Our Mission</a></li>
+<li id="main-nav-adopt" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/adopt-a-cat/">Adopt a Cat</a></li>
+<li id="main-nav-gallery" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/kitties-from-duncans-place/">Gallery</a></li>
+<li id="main-nav-pet-corner" class="menu-item menu-item-main-nav"><a href="http://duncansplace.org/cat-and-dog-corner/">Pet Corner</a></li>
+<li id="main-nav-contact" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/contact-us/">Contact Us</a></li>
+<li id="main-nav-donate" class="menu-item menu-item-main-nav"><a href="https://duncansplace.org/how-to-help//">How to Help</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+				
+			</header><!-- #masthead -->
+			
+			
+	<aside class="facebook-frame"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fduncansplace&tabs=timeline%2C%20events%2C%20messages&width=500&height=1000&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="1000" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></aside>
+	<section><a id="content"></a>
 	<p>Duncan’s Place is a non-profit organization dedicated to aiding homeless cats in Northern Colorado. We provide compassionate, safe havens for homeless cats through foster care until their forever homes are found.</p>
 	
-	<p>Please <a href="https://www.facebook.com/duncansplace/" >ask us on Facebook for an adoption application</a> if interested!</p
+	<p>Please <a href="https://www.facebook.com/duncansplace/">ask us on Facebook for an adoption application</a> if interested!</p
 
 	<p>We also endeavour to provide the Northern Colorado community with humane education and resources such as our pet food bank to help humans and felines live harmoniously together. Duncan’s Place feels that we need to approach animal welfare issues on multiple fronts, bringing together community resources and providing not only animal care, but also pet sterilization and public education.</p>
 	
-	<p>We rely heavily on <a href="http://paypal.me/duncansplace">private donations to house and save domestic cats</a> in need.</p>
+	<p>We rely heavily on <a href="https://paypal.me/duncansplace">private donations to house and save domestic cats</a> in need.</p>
 	
 	<p>If you haven’t already, <a href="https://www.facebook.com/duncansplace/">connect with Duncan's Place on Facebook!</a></p>
 	
-<h3>Amazon Shopping</h3>
-<p>Support us when you shop. <a href="https://smile.amazon.com/ch/80-0201322">Go to https://smile.amazon.com/ch/80-0201322 and Amazon donates to Duncan's Place A Cat Sanctuary LLC.</a></p>
+<h3><a href="https://smile.amazon.com/ch/80-0201322">Amazon Shopping</a></h3>
+<p>Support us when you shop. Go to <a href="https://smile.amazon.com/ch/80-0201322">https://smile.amazon.com/ch/80-0201322</a> and Amazon donates to Duncan's Place A Cat Sanctuary LLC.</p>
 
-<h3>Fresh Step Paw Points!</h3>
+<h3><a href="https://www.freshstep.com/paw-points/shelter/duncans-place-a-cat-sanctuary-1080/">Fresh Step Paw Points!</a></h3>
 <sub> October 17, 2017 </sub>
 <p>Our shelter code is: <strong>SHELTERBONUS1044</strong> to <a href="https://www.freshstep.com/paw-points/shelter/duncans-place-a-cat-sanctuary-1080/">donate points.</a></p>
 
@@ -29,7 +52,8 @@
 <sub>May 16, 2017</sub>
 <p>Please <a href="https://www.facebook.com/duncansplace/" >ask us on Facebook for a foster application</a> if interested!</p>
  
-<h3>Please consider donating <a href="http://paypal.me/duncansplace">via PayPal</a> today!</h3>
+<h3>Please consider donating <a href="https://paypal.me/duncansplace">via PayPal</a> today!</h3>
+</section>
 	</div>
 </body>
 </html>
