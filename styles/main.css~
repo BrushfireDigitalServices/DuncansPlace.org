@@ -1,5 +1,6 @@
 body {color: #101010; 
 font-family: Tahoma, Verdana, Helvetica, sans-serif;
+width: 100%;
 }
 
 .site-title {

@@ -31,6 +31,11 @@ background-color: #909090;
 overflow: visible;
 }
 
+div.fb-frame-wrapper {
+	overflow: scroll;
+}
+
+
 .menu-item {
 display: inline-block;
 background-color: #909090;
