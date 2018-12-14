@@ -14,7 +14,7 @@ width: 100%;
 }
 	
 .facebook-frame {
-float: right;
+float: none;
 margin: 5px;
 max-width: 500px;
 }
