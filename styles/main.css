@@ -1,5 +1,6 @@
 body {color: #101010; 
 font-family: Tahoma, Verdana, Helvetica, sans-serif;
+width: 100%;
 }
 
 .site-title {
@@ -24,6 +25,7 @@ div.page {
 
 .nav-menu {
 width: 90%;
+min-width: 500px;
 display: inline-block;
 background-color: #909090;
 overflow: visible;

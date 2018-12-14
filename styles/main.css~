@@ -24,6 +24,7 @@ div.page {
 
 .nav-menu {
 width: 90%;
+min-width: 500px;
 display: inline-block;
 background-color: #909090;
 overflow: visible;
