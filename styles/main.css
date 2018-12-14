@@ -18,6 +18,10 @@ float: right;
 margin: 5px;
 }
 
+div.page {
+	min-width: 500px;
+}
+
 .nav-menu {
 width: 90%;
 display: inline-block;
