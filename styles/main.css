@@ -1,6 +1,6 @@
 body {color: #101010; 
 font-family: Tahoma, Verdana, Helvetica, sans-serif;
-width: 100%;
+width: 954px;
 }
 
 .site-title {
@@ -30,11 +30,6 @@ display: inline-block;
 background-color: #909090;
 overflow: visible;
 }
-
-div.fb-frame-wrapper {
-	overflow: scroll;
-}
-
 
 .menu-item {
 display: inline-block;

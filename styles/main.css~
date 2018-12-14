@@ -1,6 +1,6 @@
 body {color: #101010; 
 font-family: Tahoma, Verdana, Helvetica, sans-serif;
-width: 100%;
+width: 954px;
 }
 
 .site-title {
@@ -14,13 +14,14 @@ width: 100%;
 }
 	
 .facebook-frame {
-float: right;
+float: none;
 margin: 5px;
 max-width: 500px;
 }
 
 div.page {
 	min-width: 500px;
+	max
 }
 
 .nav-menu {
@@ -30,11 +31,6 @@ display: inline-block;
 background-color: #909090;
 overflow: visible;
 }
-
-div.fb-frame-wrapper {
-	overflow: scroll;
-}
-
 
 .menu-item {
 display: inline-block;
