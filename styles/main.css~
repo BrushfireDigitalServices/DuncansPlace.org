@@ -1,6 +1,5 @@
 body {color: #101010; 
 font-family: Tahoma, Verdana, Helvetica, sans-serif;
-font-size: 
 }
 
 .site-title {
@@ -16,6 +15,11 @@ font-size:
 .facebook-frame {
 float: right;
 margin: 5px;
+max-width: 500px;
+}
+
+div.page {
+	min-width: 500px;
 }
 
 .nav-menu {
